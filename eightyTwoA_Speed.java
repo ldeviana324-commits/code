@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class eightyTwoA {
+public class eightyTwoA_Speed {
     static int fineCost(int speedLimit, int vehicleSpeed) {
         if (speedLimit<vehicleSpeed){
         int fine = 20 + ((vehicleSpeed-speedLimit)*5);

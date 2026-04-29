@@ -1,5 +1,5 @@
 
-public class fiftyNineB {
+public class fiftyNineB_Rounding {
     
     public static void main(String[] args) {
 
